@@ -56,3 +56,5 @@ permalink: community/courses.html
 - [Road to React](https://www.roadtoreact.com/) - Your journey to master React in JavaScript.
 
 - [Epic React](https://epicreact.dev/) - Confidently Ship Well-Architected Production Ready React Apps Like a Pro
+
+- [Einfuerung in React](https://www.it-schulungen.com/seminare/softwareentwicklung/react/einfuhrung-in-react.html) - Easy start for React beginners. 
